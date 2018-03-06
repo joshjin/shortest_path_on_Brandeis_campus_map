@@ -1,0 +1,140 @@
+from Heap import Heap
+from UtilTool import UtilTool
+from DistAndTime import distAndTime
+
+
+"""
+@param int idx1: the starting index
+@param int idx2: the ending index
+@param list e_list: a list of all edges from MapDataEdges.txt
+This function takes two vertices and return the end connecting them
+"""
+def get_edge_from_vertices(idx1, idx2, e_list):
+    for path in e_list:
+        if path[3] == idx1 and path[4] == idx2:
+            return path
+    return None
+
+
+"""
+@param Graph G: the graph to set up
+@param int s: the index of the starting vertex
+This function sets up a adjacency list so it can be used for dijkstra algorithm
+"""
+def initialize_single_source(G, s):
+    list_tmp = G.get_vertices()
+    for tmp in list_tmp:
+        v_tmp = G.get_vertex(tmp)
+        v_tmp.set_dist_to_orgn(99999)
+        v_tmp.set_prev(None)
+    start_v = G.get_vertex(s)
+    start_v.set_dist_to_orgn(0)
+    start_v.set_dist_to_prev(0)
+    start_v.set_prev(None)
+
+
+"""
+@param int k: the starting index
+@param G adj_list: a graph structure that serves as adjacency list
+This function is the structure of main prim's algorithm
+"""
+def prim_adja_list(adj_list, k):
+    initialize_single_source(adj_list, k)
+    Q = Heap(adj_list)
+    Q.build_min_heap(adj_list.get_vertices())
+    while Q.count > 0:
+        u = Q.delete_min()
+        u_vertex = adj_list.get_vertex(u)
+        u_nbhd_list = u_vertex.get_connections()
+        for v_vertex in u_nbhd_list:
+            v = v_vertex.get_id()
+            list_tmp = u_vertex.connected_to
+            dist = list_tmp.get(v_vertex)
+            if v in Q and dist < v_vertex.get_dist_to_prev():
+                v_vertex.set_prev(u)
+                v_vertex.set_dist_to_prev(dist)
+                v_vertex.set_dist_to_orgn(dist)
+        Q.sort_heap()
+    return adj_list
+
+
+"""
+@param string s_point: the starting index in label form
+@param list v_list: a list of all vertices from MapDataVertices.txt
+This function returns the index of a vertex by its label
+"""
+def get_index_from_label(v_list, s_point):
+    for vertex in v_list:
+        if vertex[1] == s_point:
+            return vertex[0]
+    return None
+
+
+"""
+@param int s: the starting index
+@param Graph adj_list: a graph structure that serves as adjacency list
+@param list vertex_list: a list of all vertices from MapDataVertices.txt
+@param list edge_list: a list of all edges from MapDataEdges.txt
+@param TextIOWrapper outPutFile: a file writter
+@param boolean method1: a boolean (true for walk, false for skate)
+@param distAndTime d_c: an object storing time spent and distance traveled
+"""
+def recur_DFS(s, adj_list, vertex_list, edge_list, outPutFile, method1, d_c):
+    s_vertex = adj_list.get_vertex(s)
+    list_tmp = s_vertex.connected_to
+    for v_nbhd in list_tmp:
+        if v_nbhd.get_prev() == s:
+            idx_v = v_nbhd.get_id()
+            edge = get_edge_from_vertices(s, idx_v, edge_list)
+            outPutFile.write('From: (' + str(vertex_list[s][1]) + ') ' + str(vertex_list[s][4]) + '\n')
+            outPutFile.write('On: ' + str(edge[9]) + '\n')
+            outPutFile.write('walk ' + str(edge[5]) + ' feet in direction ' + str(edge[6]) + ' degrees ' + str(edge[7]) + '\n')
+            outPutFile.write('To: (' + str(vertex_list[idx_v][1]) + ') ' + str(vertex_list[idx_v][4]) + '\n')
+            d_c.add_dist(edge[5])
+            time_tmp = UtilTool.calc_time(edge[5], edge[8], method1)
+            d_c.add_time(time_tmp)
+            d_c.inc_i()
+            outPutFile.write('(' + str(time_tmp) + ' min)\n\n')
+            recur_DFS(idx_v, adj_list, vertex_list, edge_list, outPutFile, method1, d_c)
+    if s_vertex.get_prev() != None:
+        idx_prev = s_vertex.get_prev()
+        edge = get_edge_from_vertices(s, idx_prev, edge_list)
+        outPutFile.write('From: (' + str(vertex_list[s][1]) + ') ' + str(vertex_list[s][4]) + '\n')
+        outPutFile.write('On: ' + str(edge[9]) + '\n')
+        outPutFile.write('walk ' + str(edge[5]) + ' feet in direction ' + str(edge[6]) + ' degrees ' + str(edge[7]) + '\n')
+        outPutFile.write('To: (' + str(vertex_list[idx_prev][1]) + ') ' + str(vertex_list[idx_prev][4]) + '\n')
+        d_c.add_dist(edge[5])
+        time_tmp = UtilTool.calc_time(edge[5], edge[8], method1)
+        d_c.add_time(time_tmp)
+        d_c.inc_i()
+        outPutFile.write('(' + str(time_tmp) + ' min)\n\n')
+
+
+"""
+@param int s: the starting index
+@param string filename: the file name to be written to
+@param Graph adj_list: a graph structure that serves as adjacency list
+@param list vertex_list: a list of all vertices from MapDataVertices.txt
+@param list edge_list: a list of all edges from MapDataEdges.txt
+@param boolean method1: a boolean (true for walk, false for skate)
+@param boolean method2: a boolean (true for distance first, false for time first)
+This function takes all the parameters above and write them into a output file for Hamilton tour using 
+the minimum spanning tree generated by prim's algorithm
+"""
+def get_tour(s, adj_list, filename, vertex_list, edge_list, method1, method2):
+    outPutFile = open(filename, 'w')
+    outPutFile.write('************* WELCOME TO THE BRANDEIS MAP *************\n')
+    outPutFile.write('Enter start (return to quit): ' + str(vertex_list[s][4]) + '\n')
+    outPutFile.write('Enter finish (or return to do a tour): tour\n')
+    if method1:
+        outPutFile.write('Have a skateboard (y/n - default=n)?: n\n')
+    else:
+        outPutFile.write('Have a skateboard (y/n - default=n)?: y\n')
+    if method2:
+        outPutFile.write('Minimize time (y/n - default=n)?: n\n\n')
+    else:
+        outPutFile.write('Minimize time (y/n - default=n)?: y\n\n')
+    dist_clock = distAndTime()
+    recur_DFS(s, adj_list, vertex_list, edge_list, outPutFile, method1, dist_clock)
+    outPutFile.write('legs = ' + str(dist_clock.get_i()) + ', distance = ' + str(dist_clock.get_dist()) + ', time = ' + str(dist_clock.get_time()) + ' min.')
+

@@ -1,0 +1,69 @@
+README
+
+AUTHOR: Zexi Josh Jin
+DATE: Dec. 11, 2017
+COURSE: COSI 180 PS4
+
+
+
+HOW TO RUN:
+
+Part1: Run the program with the command 'python3 Map.py' in the Terminal while in the folder 180_final_proj_Zexi_Jin.
+It will ask for the label of the starting location, and the label of the end location. I used label instead of name
+because the labels are unique. Then it will ask for travel method, enter either 'walk' or 'skate'. Lastly, it will ask
+for is your priority time? Enter 'no' for prioritizing short distance and 'yes' for prioritizing short time. The output
+file is saved in 'out_put_dijkstra.txt'. I used the same input for testing from the sample test and got basically the
+same result. That is start vertex is 'U40', end vertex is 'A8', travel method is 'walk', and prioritizing time is 'no'.
+
+Part2: Everything is the same as part1 except for the end vertex, instead of entering another vertex. It is asked to
+enter the string 'tour', which will run the prim's algorithm on the starting point and find the shortest path by
+traveling the minimum spanning tree in DFS. The output file is saved in 'out_put_prim.txt'. I used the same input
+for testing from the sample test to generate my sample. That is start vertex is 'U40', end vertex is 'tour', travel
+method is 'walk', and prioritizing time is 'no'.
+
+
+
+FILE EXPLANATION:
+
+Map.py: The main class, contains a main method to be run directly. Directly uses functions from DijkstraAlgorithm.py
+and PrimAlgorithm.py.
+
+DijkstraAlgorithm.py: The actual dijkstra algorithm is in this class. The detailed comments are on top of each method.
+
+PrimAlgorithm.py: The actual prim algorithm is in this class. The detailed comments are on top of each method.
+
+Heap.py: A heap structure I used for both dijkstra and prim
+
+Graph.py: Uses Vertex.y as its vertex, serves as an adjacency list
+
+Vertex.py: A node/vertex in the Graph, linked to a list of neighbors of this node
+
+Display.py: Downloaded from course page
+
+Stack.py: A stack I implemented for writing data into files
+
+UtilTool.py: A utility class that reads vertices/edges from files and forms adjacency list (either by distance or by
+time)
+
+DistAndTime.py: A class can be made into objects that can keep track of time and distance
+
+
+
+ALGORITHM EXPLAINED:
+Dijkstra: I implemented dijkstra as required in first part and generated a output file similar to the sample output.
+I followed pseudo-codes for dijkstra and it seems working fine. I didn't do any exceptions because of time management
+issues. The result of Dijkstra algorithm is stored in the Graph/adjacency list by reference to previous vertex.
+
+Prim's: I implemented prim's in a fashion that requires me to run and formulate a minimum spanning tree first, this is
+done in the function prim_adja_list(adj_list, k). Then, I basically do another DFS to trace the tree from the starting
+node. The time required for this algorithm is the same as any implementation using prim's algorithm with adjacency
+list. One thing to notice is that in terms of skating, we may not be able to travel through the whole graph since
+some of the path are not skatable.
+
+I don't have time to implement my own algorithms yet.
+
+
+
+ACADEMIC INTEGRITY:
+I did not share my code with anybody and did not copy from other people. I did use online tutorials on algorithms and
+other technical structure, but I did not use any online source directly in my program. I did not work in groups.

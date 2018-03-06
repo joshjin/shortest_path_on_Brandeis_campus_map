@@ -1,0 +1,1807 @@
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): "Usen Castle"
+Enter finish (or return to do a tour): tour
+Have a skateboard (y/n - default=n)?: n
+Minimize time (y/n - default=n)?: n
+
+From: (U40) "Usen Castle"
+On: "Usen Driveway"
+walk 126 feet in direction 273 degrees West
+To: (7) "Usen Main Entrance"
+(0.463235294118 min)
+
+From: (7) "Usen Main Entrance"
+On: ""
+walk 63 feet in direction 268 degrees West
+To: (U39) "Lemberg Hall And Children's Center"
+(0.231617647059 min)
+
+From: (U39) "Lemberg Hall And Children's Center"
+On: ""
+walk 197 feet in direction 280 degrees West
+To: (U38) "Brown Social Science Center"
+(0.724264705882 min)
+
+From: (U38) "Brown Social Science Center"
+On: ""
+walk 187 feet in direction 293 degrees NW
+To: (U37) "Schwartz Hall"
+(0.6875 min)
+
+From: (U37) "Schwartz Hall"
+On: ""
+walk 112 feet in direction 279 degrees West
+To: (U) "Between Social Sciences And Library"
+(0.411764705882 min)
+
+From: (U) "Between Social Sciences And Library"
+On: ""
+walk 160 feet in direction 262 degrees West
+To: (U23) "Pearlman Hall"
+(0.588235294118 min)
+
+From: (U23) "Pearlman Hall"
+On: ""
+walk 118 feet in direction 261 degrees West
+To: (T) "Between Sciences and Library"
+(0.433823529412 min)
+
+From: (T) "Between Sciences and Library"
+On: ""
+walk 132 feet in direction 348 degrees North
+To: (U22) "Farber Library"
+(0.485294117647 min)
+
+From: (U22) "Farber Library"
+On: ""
+walk 132 feet in direction 168 degrees South
+To: (T) "Between Sciences and Library"
+(0.485294117647 min)
+
+From: (T) "Between Sciences and Library"
+On: ""
+walk 72 feet in direction 189 degrees South
+To: (U24) "Goldsmith Building"
+(0.264705882353 min)
+
+From: (U24) "Goldsmith Building"
+On: ""
+walk 157 feet in direction 266 degrees West
+To: (U25) "Volen National Center For Complex Systems"
+(0.577205882353 min)
+
+From: (U25) "Volen National Center For Complex Systems"
+On: ""
+walk 140 feet in direction 230 degrees SW
+To: (U26) "Feldberg Communicatins Center"
+(0.514705882353 min)
+
+From: (U26) "Feldberg Communicatins Center"
+On: ""
+walk 245 feet in direction 262 degrees West
+To: (Q) "Rosenthal Quad"
+(0.900735294118 min)
+
+From: (Q) "Rosenthal Quad"
+On: ""
+walk 140 feet in direction 339 degrees North
+To: (L15) "Rosenthal Residence Hall East"
+(0.514705882353 min)
+
+From: (L15) "Rosenthal Residence Hall East"
+On: ""
+walk 122 feet in direction 336 degrees NW
+To: (L14) "Rosenthal Residence Hall North"
+(0.448529411765 min)
+
+From: (L14) "Rosenthal Residence Hall North"
+On: ""
+walk 132 feet in direction 352 degrees North
+To: (U3) "Bethlehem Chapel"
+(0.485294117647 min)
+
+From: (U3) "Bethlehem Chapel"
+On: ""
+walk 175 feet in direction 287 degrees West
+To: (U1) "Berlin Chapel"
+(0.643382352941 min)
+
+From: (U1) "Berlin Chapel"
+On: ""
+walk 75 feet in direction 19 degrees North
+To: (P) "Loop Road At The Chapels"
+(0.275735294118 min)
+
+From: (P) "Loop Road At The Chapels"
+On: ""
+walk 130 feet in direction 67 degrees NE
+To: (U2) "Harlan Chapel"
+(0.477941176471 min)
+
+From: (U2) "Harlan Chapel"
+On: ""
+walk 130 feet in direction 247 degrees SW
+To: (P) "Loop Road At The Chapels"
+(0.477941176471 min)
+
+From: (P) "Loop Road At The Chapels"
+On: ""
+walk 75 feet in direction 199 degrees South
+To: (U1) "Berlin Chapel"
+(0.275735294118 min)
+
+From: (U1) "Berlin Chapel"
+On: ""
+walk 175 feet in direction 107 degrees East
+To: (U3) "Bethlehem Chapel"
+(0.643382352941 min)
+
+From: (U3) "Bethlehem Chapel"
+On: ""
+walk 132 feet in direction 172 degrees South
+To: (L14) "Rosenthal Residence Hall North"
+(0.485294117647 min)
+
+From: (L14) "Rosenthal Residence Hall North"
+On: ""
+walk 122 feet in direction 156 degrees SE
+To: (L15) "Rosenthal Residence Hall East"
+(0.448529411765 min)
+
+From: (L15) "Rosenthal Residence Hall East"
+On: ""
+walk 196 feet in direction 55 degrees NE
+To: (U4) "Chapels Field"
+(0.720588235294 min)
+
+From: (U4) "Chapels Field"
+On: ""
+walk 196 feet in direction 235 degrees SW
+To: (L15) "Rosenthal Residence Hall East"
+(0.720588235294 min)
+
+From: (L15) "Rosenthal Residence Hall East"
+On: ""
+walk 215 feet in direction 241 degrees SW
+To: (L16) "Rosenthal Residence Hall South"
+(0.790441176471 min)
+
+From: (L16) "Rosenthal Residence Hall South"
+On: ""
+walk 139 feet in direction 275 degrees West
+To: (L13) "Sherman Hall / Hassenfeld Conference Center"
+(0.511029411765 min)
+
+From: (L13) "Sherman Hall / Hassenfeld Conference Center"
+On: ""
+walk 231 feet in direction 283 degrees West
+To: (L9) "Shapiro Residence Hal"
+(0.849264705882 min)
+
+From: (L9) "Shapiro Residence Hal"
+On: ""
+walk 173 feet in direction 282 degrees West
+To: (M) "Loop Road By The Hassenfeld Lot"
+(0.636029411765 min)
+
+From: (M) "Loop Road By The Hassenfeld Lot"
+On: ""
+walk 151 feet in direction 233 degrees SW
+To: (#) "Hassenfeld Lot"
+(0.555147058824 min)
+
+From: (#) "Hassenfeld Lot"
+On: ""
+walk 151 feet in direction 53 degrees NE
+To: (M) "Loop Road By The Hassenfeld Lot"
+(0.555147058824 min)
+
+From: (M) "Loop Road By The Hassenfeld Lot"
+On: ""
+walk 186 feet in direction 36 degrees NE
+To: (L10) "Deroy Residence Hall"
+(0.683823529412 min)
+
+From: (L10) "Deroy Residence Hall"
+On: ""
+walk 186 feet in direction 216 degrees SW
+To: (M) "Loop Road By The Hassenfeld Lot"
+(0.683823529412 min)
+
+From: (M) "Loop Road By The Hassenfeld Lot"
+On: ""
+walk 173 feet in direction 102 degrees East
+To: (L9) "Shapiro Residence Hal"
+(0.636029411765 min)
+
+From: (L9) "Shapiro Residence Hal"
+On: ""
+walk 231 feet in direction 103 degrees East
+To: (L13) "Sherman Hall / Hassenfeld Conference Center"
+(0.849264705882 min)
+
+From: (L13) "Sherman Hall / Hassenfeld Conference Center"
+On: ""
+walk 203 feet in direction 185 degrees South
+To: (L17) "Shapiro Campus Center"
+(0.746323529412 min)
+
+From: (L17) "Shapiro Campus Center"
+On: ""
+walk 164 feet in direction 279 degrees West
+To: (L8) "Faculty Lodge"
+(0.602941176471 min)
+
+From: (L8) "Faculty Lodge"
+On: ""
+walk 276 feet in direction 252 degrees West
+To: (L7) "Faculty Center"
+(1.01470588235 min)
+
+From: (L7) "Faculty Center"
+On: ""
+walk 181 feet in direction 226 degrees SW
+To: (I) "Loop Road At The Theater"
+(0.665441176471 min)
+
+From: (I) "Loop Road At The Theater"
+On: "Loop Road"
+walk 229 feet in direction 118 degrees SE
+To: (J) "Loop Road At The Admissions Building"
+(0.765374331551 min)
+
+From: (J) "Loop Road At The Admissions Building"
+On: "Loop Road"
+walk 167 feet in direction 110 degrees East
+To: (K) "Loop Road At The Administration Building"
+(0.682189542484 min)
+
+From: (K) "Loop Road At The Administration Building"
+On: ""
+walk 251 feet in direction 118 degrees SE
+To: (L23) "Slosberg Music Center"
+(0.922794117647 min)
+
+From: (L23) "Slosberg Music Center"
+On: ""
+walk 208 feet in direction 97 degrees East
+To: (>) "Slodberg Lot"
+(0.764705882353 min)
+
+From: (>) "Slodberg Lot"
+On: ""
+walk 208 feet in direction 277 degrees West
+To: (L23) "Slosberg Music Center"
+(0.764705882353 min)
+
+From: (L23) "Slosberg Music Center"
+On: ""
+walk 117 feet in direction 263 degrees West
+To: (<) "Admissions Lot"
+(0.430147058824 min)
+
+From: (<) "Admissions Lot"
+On: ""
+walk 117 feet in direction 83 degrees East
+To: (L23) "Slosberg Music Center"
+(0.430147058824 min)
+
+From: (L23) "Slosberg Music Center"
+On: ""
+walk 251 feet in direction 298 degrees NW
+To: (K) "Loop Road At The Administration Building"
+(0.922794117647 min)
+
+From: (K) "Loop Road At The Administration Building"
+On: "Loop Road"
+walk 167 feet in direction 290 degrees West
+To: (J) "Loop Road At The Admissions Building"
+(0.558155080214 min)
+
+From: (J) "Loop Road At The Admissions Building"
+On: ""
+walk 140 feet in direction 224 degrees SW
+To: (L24) "Shapiro Admissions Center"
+(0.514705882353 min)
+
+From: (L24) "Shapiro Admissions Center"
+On: ""
+walk 175 feet in direction 197 degrees South
+To: (G) "Ridgewood Quad"
+(0.643382352941 min)
+
+From: (G) "Ridgewood Quad"
+On: ""
+walk 114 feet in direction 212 degrees SW
+To: (L27) "Ridgewood Residence Hall C"
+(0.419117647059 min)
+
+From: (L27) "Ridgewood Residence Hall C"
+On: ""
+walk 114 feet in direction 32 degrees NE
+To: (G) "Ridgewood Quad"
+(0.419117647059 min)
+
+From: (G) "Ridgewood Quad"
+On: ""
+walk 104 feet in direction 85 degrees East
+To: (L25) "Ridgewood Residence Hall A"
+(0.382352941176 min)
+
+From: (L25) "Ridgewood Residence Hall A"
+On: ""
+walk 104 feet in direction 265 degrees West
+To: (G) "Ridgewood Quad"
+(0.382352941176 min)
+
+From: (G) "Ridgewood Quad"
+On: ""
+walk 251 feet in direction 152 degrees SE
+To: (L28) "Village Residence Hall"
+(0.922794117647 min)
+
+From: (L28) "Village Residence Hall"
+On: ""
+walk 207 feet in direction 175 degrees South
+To: (H) "West Intersection South St. & Old South St."
+(0.761029411765 min)
+
+From: (H) "West Intersection South St. & Old South St."
+On: ""
+walk 207 feet in direction 355 degrees North
+To: (L28) "Village Residence Hall"
+(0.761029411765 min)
+
+From: (L28) "Village Residence Hall"
+On: ""
+walk 251 feet in direction 332 degrees NW
+To: (G) "Ridgewood Quad"
+(0.922794117647 min)
+
+From: (G) "Ridgewood Quad"
+On: ""
+walk 193 feet in direction 271 degrees West
+To: (L26) "Ridgewood Residence Hall B"
+(0.709558823529 min)
+
+From: (L26) "Ridgewood Residence Hall B"
+On: ""
+walk 137 feet in direction 242 degrees SW
+To: (E) "Ziv Quad"
+(0.503676470588 min)
+
+From: (E) "Ziv Quad"
+On: ""
+walk 248 feet in direction 231 degrees SW
+To: (L31) "Ziv Residence Hall B"
+(0.911764705882 min)
+
+From: (L31) "Ziv Residence Hall B"
+On: ""
+walk 192 feet in direction 119 degrees SE
+To: (L32) "Mazer Residence Hall"
+(0.705882352941 min)
+
+From: (L32) "Mazer Residence Hall"
+On: ""
+walk 249 feet in direction 187 degrees South
+To: (L33) "Epstein Building"
+(0.915441176471 min)
+
+From: (L33) "Epstein Building"
+On: "Epstein Driveway"
+walk 273 feet in direction 98 degrees East
+To: (F) "Epstein Entrance"
+(1.00367647059 min)
+
+From: (F) "Epstein Entrance"
+On: "South Street"
+walk 483 feet in direction 241 degrees SW
+To: (C) "Intersection Turner St. & South St."
+(1.77573529412 min)
+
+From: (C) "Intersection Turner St. & South St."
+On: "Turner Street"
+walk 364 feet in direction 263 degrees West
+To: (L35) "567 South Street Apartments"
+(1.33823529412 min)
+
+From: (L35) "567 South Street Apartments"
+On: "South Street"
+walk 414 feet in direction 214 degrees SW
+To: (L36) "May, Lewis, Coffman, and Cohen Residence Halls"
+(1.52205882353 min)
+
+From: (L36) "May, Lewis, Coffman, and Cohen Residence Halls"
+On: "Edge Connecting Map Lower Left Corner To A Map Location"
+walk 1408 feet in direction 209 degrees SW
+To: (CCC) "Lower Left Corner Of Map"
+(5.17647058824 min)
+
+From: (CCC) "Lower Left Corner Of Map"
+On: "Edge Connecting Map Lower Left Corner To A Map Location"
+walk 1408 feet in direction 29 degrees NE
+To: (L36) "May, Lewis, Coffman, and Cohen Residence Halls"
+(5.17647058824 min)
+
+From: (L36) "May, Lewis, Coffman, and Cohen Residence Halls"
+On: "South Street"
+walk 414 feet in direction 34 degrees NE
+To: (L35) "567 South Street Apartments"
+(1.52205882353 min)
+
+From: (L35) "567 South Street Apartments"
+On: "Turner Street"
+walk 364 feet in direction 83 degrees East
+To: (C) "Intersection Turner St. & South St."
+(1.33823529412 min)
+
+From: (C) "Intersection Turner St. & South St."
+On: ""
+walk 772 feet in direction 281 degrees West
+To: (L34) "60 Turner Street"
+(2.83823529412 min)
+
+From: (L34) "60 Turner Street"
+On: ""
+walk 772 feet in direction 101 degrees East
+To: (C) "Intersection Turner St. & South St."
+(2.83823529412 min)
+
+From: (C) "Intersection Turner St. & South St."
+On: "South Street"
+walk 483 feet in direction 61 degrees NE
+To: (F) "Epstein Entrance"
+(1.77573529412 min)
+
+From: (F) "Epstein Entrance"
+On: ""
+walk 162 feet in direction 117 degrees SE
+To: (@) "T-Lot"
+(0.595588235294 min)
+
+From: (@) "T-Lot"
+On: ""
+walk 162 feet in direction 297 degrees NW
+To: (F) "Epstein Entrance"
+(0.595588235294 min)
+
+From: (F) "Epstein Entrance"
+On: "Epstein Driveway"
+walk 273 feet in direction 278 degrees West
+To: (L33) "Epstein Building"
+(1.00367647059 min)
+
+From: (L33) "Epstein Building"
+On: ""
+walk 249 feet in direction 7 degrees North
+To: (L32) "Mazer Residence Hall"
+(0.915441176471 min)
+
+From: (L32) "Mazer Residence Hall"
+On: ""
+walk 197 feet in direction 55 degrees NE
+To: (L29) "Ziv Residence Hall D"
+(0.724264705882 min)
+
+From: (L29) "Ziv Residence Hall D"
+On: ""
+walk 197 feet in direction 235 degrees SW
+To: (L32) "Mazer Residence Hall"
+(0.724264705882 min)
+
+From: (L32) "Mazer Residence Hall"
+On: ""
+walk 192 feet in direction 299 degrees NW
+To: (L31) "Ziv Residence Hall B"
+(0.705882352941 min)
+
+From: (L31) "Ziv Residence Hall B"
+On: ""
+walk 146 feet in direction 10 degrees North
+To: (L30) "Ziv Residence Hall A"
+(0.536764705882 min)
+
+From: (L30) "Ziv Residence Hall A"
+On: ""
+walk 146 feet in direction 190 degrees South
+To: (L31) "Ziv Residence Hall B"
+(0.536764705882 min)
+
+From: (L31) "Ziv Residence Hall B"
+On: ""
+walk 248 feet in direction 51 degrees NE
+To: (E) "Ziv Quad"
+(0.911764705882 min)
+
+From: (E) "Ziv Quad"
+On: ""
+walk 137 feet in direction 62 degrees NE
+To: (L26) "Ridgewood Residence Hall B"
+(0.503676470588 min)
+
+From: (L26) "Ridgewood Residence Hall B"
+On: ""
+walk 288 feet in direction 322 degrees NW
+To: (L4) "Spingold Theater Center"
+(1.05882352941 min)
+
+From: (L4) "Spingold Theater Center"
+On: ""
+walk 243 feet in direction 273 degrees West
+To: (D) "Between Fine Arts and Theater"
+(0.893382352941 min)
+
+From: (D) "Between Fine Arts and Theater"
+On: ""
+walk 240 feet in direction 40 degrees NE
+To: (L5) "Pollack Fine Arts"
+(0.882352941176 min)
+
+From: (L5) "Pollack Fine Arts"
+On: ""
+walk 186 feet in direction 29 degrees NE
+To: (L6) "The Rose Art Museum"
+(0.683823529412 min)
+
+From: (L6) "The Rose Art Museum"
+On: ""
+walk 186 feet in direction 209 degrees SW
+To: (L5) "Pollack Fine Arts"
+(0.683823529412 min)
+
+From: (L5) "Pollack Fine Arts"
+On: ""
+walk 240 feet in direction 220 degrees SW
+To: (D) "Between Fine Arts and Theater"
+(0.882352941176 min)
+
+From: (D) "Between Fine Arts and Theater"
+On: ""
+walk 81 feet in direction 353 degrees North
+To: (L3) "Goldman-Schwartz Fine Arts"
+(0.297794117647 min)
+
+From: (L3) "Goldman-Schwartz Fine Arts"
+On: ""
+walk 432 feet in direction 270 degrees West
+To: (L2) "IBS - Lemberg Academic Center"
+(1.58823529412 min)
+
+From: (L2) "IBS - Lemberg Academic Center"
+On: ""
+walk 287 feet in direction 294 degrees NW
+To: (L1) "IBS - Sachar International Center"
+(1.05514705882 min)
+
+From: (L1) "IBS - Sachar International Center"
+On: "Edge Connecting Map Upper Left Corner To A Map Location"
+walk 1509 feet in direction 342 degrees North
+To: (AAA) "Upper Left Corner of Map"
+(5.54779411765 min)
+
+From: (AAA) "Upper Left Corner of Map"
+On: "Edge Connecting Map Upper Left Corner To A Map Location"
+walk 1509 feet in direction 162 degrees South
+To: (L1) "IBS - Sachar International Center"
+(5.54779411765 min)
+
+From: (L1) "IBS - Sachar International Center"
+On: ""
+walk 287 feet in direction 114 degrees SE
+To: (L2) "IBS - Lemberg Academic Center"
+(1.05514705882 min)
+
+From: (L2) "IBS - Lemberg Academic Center"
+On: ""
+walk 171 feet in direction 215 degrees SW
+To: (A) "IBS Lemberg Academic Center Front Entrance"
+(0.628676470588 min)
+
+From: (A) "IBS Lemberg Academic Center Front Entrance"
+On: ""
+walk 333 feet in direction 165 degrees South
+To: (~) "Lower Theater Lot"
+(1.22426470588 min)
+
+From: (~) "Lower Theater Lot"
+On: "Lower Theater Lot Rear Access"
+walk 296 feet in direction 191 degrees South
+To: (B) "Start Lower Theater Lot Rear Access Road"
+(0.989304812834 min)
+
+From: (B) "Start Lower Theater Lot Rear Access Road"
+On: "Lower Theater Lot Rear Access"
+walk 296 feet in direction 11 degrees North
+To: (~) "Lower Theater Lot"
+(1.2091503268 min)
+
+From: (~) "Lower Theater Lot"
+On: ""
+walk 333 feet in direction 345 degrees North
+To: (A) "IBS Lemberg Academic Center Front Entrance"
+(1.22426470588 min)
+
+From: (A) "IBS Lemberg Academic Center Front Entrance"
+On: ""
+walk 171 feet in direction 35 degrees NE
+To: (L2) "IBS - Lemberg Academic Center"
+(0.628676470588 min)
+
+From: (L2) "IBS - Lemberg Academic Center"
+On: ""
+walk 432 feet in direction 90 degrees East
+To: (L3) "Goldman-Schwartz Fine Arts"
+(1.58823529412 min)
+
+From: (L3) "Goldman-Schwartz Fine Arts"
+On: ""
+walk 81 feet in direction 173 degrees South
+To: (D) "Between Fine Arts and Theater"
+(0.297794117647 min)
+
+From: (D) "Between Fine Arts and Theater"
+On: ""
+walk 243 feet in direction 93 degrees East
+To: (L4) "Spingold Theater Center"
+(0.893382352941 min)
+
+From: (L4) "Spingold Theater Center"
+On: ""
+walk 351 feet in direction 241 degrees SW
+To: (!) "Theater Lot"
+(1.29044117647 min)
+
+From: (!) "Theater Lot"
+On: ""
+walk 351 feet in direction 61 degrees NE
+To: (L4) "Spingold Theater Center"
+(1.29044117647 min)
+
+From: (L4) "Spingold Theater Center"
+On: ""
+walk 288 feet in direction 142 degrees SE
+To: (L26) "Ridgewood Residence Hall B"
+(1.05882352941 min)
+
+From: (L26) "Ridgewood Residence Hall B"
+On: ""
+walk 193 feet in direction 91 degrees East
+To: (G) "Ridgewood Quad"
+(0.709558823529 min)
+
+From: (G) "Ridgewood Quad"
+On: ""
+walk 175 feet in direction 17 degrees North
+To: (L24) "Shapiro Admissions Center"
+(0.643382352941 min)
+
+From: (L24) "Shapiro Admissions Center"
+On: ""
+walk 140 feet in direction 44 degrees NE
+To: (J) "Loop Road At The Admissions Building"
+(0.514705882353 min)
+
+From: (J) "Loop Road At The Admissions Building"
+On: "Loop Road"
+walk 229 feet in direction 298 degrees NW
+To: (I) "Loop Road At The Theater"
+(0.93545751634 min)
+
+From: (I) "Loop Road At The Theater"
+On: ""
+walk 181 feet in direction 46 degrees NE
+To: (L7) "Faculty Center"
+(0.665441176471 min)
+
+From: (L7) "Faculty Center"
+On: ""
+walk 276 feet in direction 72 degrees East
+To: (L8) "Faculty Lodge"
+(1.01470588235 min)
+
+From: (L8) "Faculty Lodge"
+On: ""
+walk 164 feet in direction 99 degrees East
+To: (L17) "Shapiro Campus Center"
+(0.602941176471 min)
+
+From: (L17) "Shapiro Campus Center"
+On: ""
+walk 181 feet in direction 134 degrees SE
+To: (N) "Shapiro And Administration Main Entrances"
+(0.665441176471 min)
+
+From: (N) "Shapiro And Administration Main Entrances"
+On: ""
+walk 107 feet in direction 212 degrees SW
+To: (L21) "Bernstein-Marcus"
+(0.393382352941 min)
+
+From: (L21) "Bernstein-Marcus"
+On: ""
+walk 107 feet in direction 32 degrees NE
+To: (N) "Shapiro And Administration Main Entrances"
+(0.393382352941 min)
+
+From: (N) "Shapiro And Administration Main Entrances"
+On: ""
+walk 181 feet in direction 314 degrees NW
+To: (L17) "Shapiro Campus Center"
+(0.665441176471 min)
+
+From: (L17) "Shapiro Campus Center"
+On: ""
+walk 203 feet in direction 5 degrees North
+To: (L13) "Sherman Hall / Hassenfeld Conference Center"
+(0.746323529412 min)
+
+From: (L13) "Sherman Hall / Hassenfeld Conference Center"
+On: ""
+walk 193 feet in direction 354 degrees North
+To: (L11) "Renfield Residence Hall"
+(0.709558823529 min)
+
+From: (L11) "Renfield Residence Hall"
+On: ""
+walk 121 feet in direction 94 degrees East
+To: (L12) "Usen Residence Hall"
+(0.444852941176 min)
+
+From: (L12) "Usen Residence Hall"
+On: ""
+walk 121 feet in direction 274 degrees West
+To: (L11) "Renfield Residence Hall"
+(0.444852941176 min)
+
+From: (L11) "Renfield Residence Hall"
+On: ""
+walk 193 feet in direction 174 degrees South
+To: (L13) "Sherman Hall / Hassenfeld Conference Center"
+(0.709558823529 min)
+
+From: (L13) "Sherman Hall / Hassenfeld Conference Center"
+On: ""
+walk 139 feet in direction 95 degrees East
+To: (L16) "Rosenthal Residence Hall South"
+(0.511029411765 min)
+
+From: (L16) "Rosenthal Residence Hall South"
+On: ""
+walk 215 feet in direction 61 degrees NE
+To: (L15) "Rosenthal Residence Hall East"
+(0.790441176471 min)
+
+From: (L15) "Rosenthal Residence Hall East"
+On: ""
+walk 140 feet in direction 159 degrees South
+To: (Q) "Rosenthal Quad"
+(0.514705882353 min)
+
+From: (Q) "Rosenthal Quad"
+On: ""
+walk 105 feet in direction 218 degrees SW
+To: (L18) "Fellows Garden"
+(0.386029411765 min)
+
+From: (L18) "Fellows Garden"
+On: ""
+walk 105 feet in direction 38 degrees NE
+To: (Q) "Rosenthal Quad"
+(0.386029411765 min)
+
+From: (Q) "Rosenthal Quad"
+On: "Path Along Top Of Fellows Garden"
+walk 243 feet in direction 154 degrees SE
+To: (R) "Administration Side Entrance"
+(0.893382352941 min)
+
+From: (R) "Administration Side Entrance"
+On: ""
+walk 121 feet in direction 270 degrees West
+To: (L19) "Gryzmish Center"
+(0.444852941176 min)
+
+From: (L19) "Gryzmish Center"
+On: ""
+walk 148 feet in direction 180 degrees South
+To: (L20) "Irving Presidential Enclave"
+(0.544117647059 min)
+
+From: (L20) "Irving Presidential Enclave"
+On: ""
+walk 258 feet in direction 132 degrees SE
+To: (L22) "Main Entrance"
+(0.862299465241 min)
+
+From: (L22) "Main Entrance"
+On: ""
+walk 433 feet in direction 68 degrees East
+To: (O) "Loop Road At Below The Science Complex"
+(1.76879084967 min)
+
+From: (O) "Loop Road At Below The Science Complex"
+On: ""
+walk 433 feet in direction 248 degrees West
+To: (L22) "Main Entrance"
+(1.44719251337 min)
+
+From: (L22) "Main Entrance"
+On: ""
+walk 230 feet in direction 213 degrees SW
+To: (L) "East Intersection South St. & Old South St."
+(0.845588235294 min)
+
+From: (L) "East Intersection South St. & Old South St."
+On: "Old South Street"
+walk 461 feet in direction 220 degrees SW
+To: (L40) "The Rabb School"
+(1.69485294118 min)
+
+From: (L40) "The Rabb School"
+On: "Old South Street"
+walk 461 feet in direction 40 degrees NE
+To: (L) "East Intersection South St. & Old South St."
+(1.69485294118 min)
+
+From: (L) "East Intersection South St. & Old South St."
+On: ""
+walk 230 feet in direction 33 degrees NE
+To: (L22) "Main Entrance"
+(0.845588235294 min)
+
+From: (L22) "Main Entrance"
+On: ""
+walk 258 feet in direction 312 degrees NW
+To: (L20) "Irving Presidential Enclave"
+(1.05392156863 min)
+
+From: (L20) "Irving Presidential Enclave"
+On: ""
+walk 148 feet in direction 0 degrees North
+To: (L19) "Gryzmish Center"
+(0.544117647059 min)
+
+From: (L19) "Gryzmish Center"
+On: ""
+walk 121 feet in direction 90 degrees East
+To: (R) "Administration Side Entrance"
+(0.444852941176 min)
+
+From: (R) "Administration Side Entrance"
+On: "Path Along Top Of Fellows Garden"
+walk 243 feet in direction 334 degrees NW
+To: (Q) "Rosenthal Quad"
+(0.893382352941 min)
+
+From: (Q) "Rosenthal Quad"
+On: ""
+walk 245 feet in direction 82 degrees East
+To: (U26) "Feldberg Communicatins Center"
+(0.900735294118 min)
+
+From: (U26) "Feldberg Communicatins Center"
+On: ""
+walk 140 feet in direction 50 degrees NE
+To: (U25) "Volen National Center For Complex Systems"
+(0.514705882353 min)
+
+From: (U25) "Volen National Center For Complex Systems"
+On: ""
+walk 117 feet in direction 152 degrees SE
+To: (U27) "Abelson-Bass-Yalem"
+(0.430147058824 min)
+
+From: (U27) "Abelson-Bass-Yalem"
+On: ""
+walk 143 feet in direction 104 degrees East
+To: (U29) "Gerstenzang Science Library"
+(0.525735294118 min)
+
+From: (U29) "Gerstenzang Science Library"
+On: ""
+walk 146 feet in direction 56 degrees NE
+To: (U28) "Bassine Science Building"
+(0.536764705882 min)
+
+From: (U28) "Bassine Science Building"
+On: ""
+walk 146 feet in direction 236 degrees SW
+To: (U29) "Gerstenzang Science Library"
+(0.536764705882 min)
+
+From: (U29) "Gerstenzang Science Library"
+On: ""
+walk 143 feet in direction 284 degrees West
+To: (U27) "Abelson-Bass-Yalem"
+(0.525735294118 min)
+
+From: (U27) "Abelson-Bass-Yalem"
+On: ""
+walk 90 feet in direction 143 degrees SE
+To: (U30) "Edison-Lecks Science Building"
+(0.330882352941 min)
+
+From: (U30) "Edison-Lecks Science Building"
+On: ""
+walk 81 feet in direction 186 degrees South
+To: (U31) "Shapiro Science Center"
+(0.297794117647 min)
+
+From: (U31) "Shapiro Science Center"
+On: ""
+walk 81 feet in direction 6 degrees North
+To: (U30) "Edison-Lecks Science Building"
+(0.297794117647 min)
+
+From: (U30) "Edison-Lecks Science Building"
+On: ""
+walk 90 feet in direction 323 degrees NW
+To: (U27) "Abelson-Bass-Yalem"
+(0.330882352941 min)
+
+From: (U27) "Abelson-Bass-Yalem"
+On: ""
+walk 117 feet in direction 332 degrees NW
+To: (U25) "Volen National Center For Complex Systems"
+(0.430147058824 min)
+
+From: (U25) "Volen National Center For Complex Systems"
+On: ""
+walk 157 feet in direction 86 degrees East
+To: (U24) "Goldsmith Building"
+(0.577205882353 min)
+
+From: (U24) "Goldsmith Building"
+On: ""
+walk 72 feet in direction 9 degrees North
+To: (T) "Between Sciences and Library"
+(0.264705882353 min)
+
+From: (T) "Between Sciences and Library"
+On: ""
+walk 118 feet in direction 81 degrees East
+To: (U23) "Pearlman Hall"
+(0.433823529412 min)
+
+From: (U23) "Pearlman Hall"
+On: ""
+walk 160 feet in direction 82 degrees East
+To: (U) "Between Social Sciences And Library"
+(0.588235294118 min)
+
+From: (U) "Between Social Sciences And Library"
+On: ""
+walk 169 feet in direction 338 degrees North
+To: (U21) "Goldfarb Library"
+(0.621323529412 min)
+
+From: (U21) "Goldfarb Library"
+On: ""
+walk 169 feet in direction 158 degrees South
+To: (U) "Between Social Sciences And Library"
+(0.621323529412 min)
+
+From: (U) "Between Social Sciences And Library"
+On: ""
+walk 112 feet in direction 99 degrees East
+To: (U37) "Schwartz Hall"
+(0.411764705882 min)
+
+From: (U37) "Schwartz Hall"
+On: ""
+walk 187 feet in direction 113 degrees SE
+To: (U38) "Brown Social Science Center"
+(0.6875 min)
+
+From: (U38) "Brown Social Science Center"
+On: ""
+walk 197 feet in direction 100 degrees East
+To: (U39) "Lemberg Hall And Children's Center"
+(0.724264705882 min)
+
+From: (U39) "Lemberg Hall And Children's Center"
+On: ""
+walk 63 feet in direction 88 degrees East
+To: (7) "Usen Main Entrance"
+(0.231617647059 min)
+
+From: (7) "Usen Main Entrance"
+On: "Usen Bypass"
+walk 130 feet in direction 157 degrees SE
+To: (S) "Top Of Usen Steps"
+(0.477941176471 min)
+
+From: (S) "Top Of Usen Steps"
+On: "Usen Steps"
+walk 184 feet in direction 148 degrees SE
+To: (=) "Science Lot"
+(0.751633986928 min)
+
+From: (=) "Science Lot"
+On: ""
+walk 38 feet in direction 136 degrees SE
+To: (U47) "Stoneman Infirmary And Public Safety"
+(0.139705882353 min)
+
+From: (U47) "Stoneman Infirmary And Public Safety"
+On: ""
+walk 174 feet in direction 80 degrees East
+To: (W) "Loop Road At The Health Center"
+(0.639705882353 min)
+
+From: (W) "Loop Road At The Health Center"
+On: "East Quad Lower Lot Driveway"
+walk 425 feet in direction 81 degrees East
+To: (%) "East Quad Lower Lot"
+(1.42045454545 min)
+
+From: (%) "East Quad Lower Lot"
+On: "East Quad Lower Lot Driveway"
+walk 425 feet in direction 261 degrees West
+To: (W) "Loop Road At The Health Center"
+(1.73611111111 min)
+
+From: (W) "Loop Road At The Health Center"
+On: "Health Center Steps"
+walk 213 feet in direction 157 degrees SE
+To: (X) "South St. At The Base Of Health Center Steps"
+(0.870098039216 min)
+
+From: (X) "South St. At The Base Of Health Center Steps"
+On: ""
+walk 206 feet in direction 104 degrees East
+To: (A3) "Linsey Sports Center And Pool"
+(0.757352941176 min)
+
+From: (A3) "Linsey Sports Center And Pool"
+On: ""
+walk 229 feet in direction 255 degrees West
+To: (A2) "Shapiro Athletic Center"
+(0.841911764706 min)
+
+From: (A2) "Shapiro Athletic Center"
+On: ""
+walk 235 feet in direction 138 degrees SE
+To: (A5) "Gosman Sports and Convocation Center"
+(0.863970588235 min)
+
+From: (A5) "Gosman Sports and Convocation Center"
+On: ""
+walk 318 feet in direction 205 degrees SW
+To: (Z) "Athletics Driveway Lower Corner"
+(1.16911764706 min)
+
+From: (Z) "Athletics Driveway Lower Corner"
+On: ""
+walk 173 feet in direction 100 degrees East
+To: (A6) "Rieger Tennis Courts"
+(0.636029411765 min)
+
+From: (A6) "Rieger Tennis Courts"
+On: "Edge Connecting Map Lower Right Corner To A Map Location"
+walk 2446 feet in direction 159 degrees South
+To: (DDD) "Lower Right Corner Of Map"
+(8.99264705882 min)
+
+From: (DDD) "Lower Right Corner Of Map"
+On: "Edge Connecting Map Lower Right Corner To A Map Location"
+walk 2446 feet in direction 339 degrees North
+To: (A6) "Rieger Tennis Courts"
+(8.99264705882 min)
+
+From: (A6) "Rieger Tennis Courts"
+On: ""
+walk 173 feet in direction 280 degrees West
+To: (Z) "Athletics Driveway Lower Corner"
+(0.636029411765 min)
+
+From: (Z) "Athletics Driveway Lower Corner"
+On: ""
+walk 318 feet in direction 25 degrees NE
+To: (A5) "Gosman Sports and Convocation Center"
+(1.16911764706 min)
+
+From: (A5) "Gosman Sports and Convocation Center"
+On: ""
+walk 235 feet in direction 318 degrees NW
+To: (A2) "Shapiro Athletic Center"
+(0.863970588235 min)
+
+From: (A2) "Shapiro Athletic Center"
+On: ""
+walk 201 feet in direction 243 degrees SW
+To: (A2e) "Shapiro Athletic Center Entrance"
+(0.738970588235 min)
+
+From: (A2e) "Shapiro Athletic Center Entrance"
+On: ""
+walk 113 feet in direction 270 degrees West
+To: (A1s) "Squire Bridge South Entrance"
+(0.415441176471 min)
+
+From: (A1s) "Squire Bridge South Entrance"
+On: ""
+walk 90 feet in direction 197 degrees South
+To: (Y) "Athletics Front Entrance"
+(0.330882352941 min)
+
+From: (Y) "Athletics Front Entrance"
+On: "Athletics Driveway"
+walk 187 feet in direction 336 degrees NW
+To: (A1u) "Under Squire Bridge"
+(0.6875 min)
+
+From: (A1u) "Under Squire Bridge"
+On: "Athletics Driveway"
+walk 187 feet in direction 156 degrees SE
+To: (Y) "Athletics Front Entrance"
+(0.6875 min)
+
+From: (Y) "Athletics Front Entrance"
+On: "Marcus Field"
+walk 514 feet in direction 218 degrees SW
+To: (A7) "Marcus Field"
+(1.88970588235 min)
+
+From: (A7) "Marcus Field"
+On: "Marcus Field"
+walk 418 feet in direction 266 degrees West
+To: (^) "Gordon Bleachers"
+(1.53676470588 min)
+
+From: (^) "Gordon Bleachers"
+On: "Athletics Path"
+walk 470 feet in direction 21 degrees North
+To: (&) "Athletic Lot"
+(1.72794117647 min)
+
+From: (&) "Athletic Lot"
+On: "Athletics Path"
+walk 470 feet in direction 201 degrees South
+To: (^) "Gordon Bleachers"
+(1.72794117647 min)
+
+From: (^) "Gordon Bleachers"
+On: "Gordon Field"
+walk 267 feet in direction 259 degrees West
+To: (A8) "Gordon Field"
+(0.981617647059 min)
+
+From: (A8) "Gordon Field"
+On: "Gordon Field"
+walk 267 feet in direction 79 degrees East
+To: (^) "Gordon Bleachers"
+(0.981617647059 min)
+
+From: (^) "Gordon Bleachers"
+On: "Marcus Field"
+walk 418 feet in direction 86 degrees East
+To: (A7) "Marcus Field"
+(1.53676470588 min)
+
+From: (A7) "Marcus Field"
+On: "Marcus Field"
+walk 514 feet in direction 38 degrees NE
+To: (Y) "Athletics Front Entrance"
+(1.88970588235 min)
+
+From: (Y) "Athletics Front Entrance"
+On: ""
+walk 90 feet in direction 17 degrees North
+To: (A1s) "Squire Bridge South Entrance"
+(0.330882352941 min)
+
+From: (A1s) "Squire Bridge South Entrance"
+On: "Squire Bridge"
+walk 120 feet in direction 328 degrees NW
+To: (A1) "Squire Bridge"
+(0.441176470588 min)
+
+From: (A1) "Squire Bridge"
+On: "Squire Bridge"
+walk 167 feet in direction 302 degrees NW
+To: (A1n) "Squire Bridge North Entrance"
+(0.613970588235 min)
+
+From: (A1n) "Squire Bridge North Entrance"
+On: "Squire Bridge Steps"
+walk 132 feet in direction 344 degrees North
+To: (V) "Loop Road At The Top Of Squire Bridge Steps""
+(0.970588235294 min)
+
+From: (V) "Loop Road At The Top Of Squire Bridge Steps""
+On: ""
+walk 81 feet in direction 289 degrees West
+To: (U36) "Foster Bio-Medical Research Center"
+(0.297794117647 min)
+
+From: (U36) "Foster Bio-Medical Research Center"
+On: ""
+walk 157 feet in direction 306 degrees NW
+To: (U35) "Kosow-Wolfson-Rosensweig"
+(0.577205882353 min)
+
+From: (U35) "Kosow-Wolfson-Rosensweig"
+On: ""
+walk 134 feet in direction 287 degrees West
+To: (*) "Shapiro Visitor Lot"
+(0.492647058824 min)
+
+From: (*) "Shapiro Visitor Lot"
+On: ""
+walk 156 feet in direction 239 degrees SW
+To: (U34) "Rosenstiel Basic Medical Sciences Research Center"
+(0.573529411765 min)
+
+From: (U34) "Rosenstiel Basic Medical Sciences Research Center"
+On: ""
+walk 156 feet in direction 59 degrees NE
+To: (*) "Shapiro Visitor Lot"
+(0.573529411765 min)
+
+From: (*) "Shapiro Visitor Lot"
+On: ""
+walk 134 feet in direction 107 degrees East
+To: (U35) "Kosow-Wolfson-Rosensweig"
+(0.492647058824 min)
+
+From: (U35) "Kosow-Wolfson-Rosensweig"
+On: ""
+walk 157 feet in direction 126 degrees SE
+To: (U36) "Foster Bio-Medical Research Center"
+(0.577205882353 min)
+
+From: (U36) "Foster Bio-Medical Research Center"
+On: ""
+walk 81 feet in direction 109 degrees East
+To: (V) "Loop Road At The Top Of Squire Bridge Steps""
+(0.297794117647 min)
+
+From: (V) "Loop Road At The Top Of Squire Bridge Steps""
+On: "Squire Bridge Steps"
+walk 132 feet in direction 164 degrees South
+To: (A1n) "Squire Bridge North Entrance"
+(0.539215686275 min)
+
+From: (A1n) "Squire Bridge North Entrance"
+On: "Squire Bridge"
+walk 167 feet in direction 122 degrees SE
+To: (A1) "Squire Bridge"
+(0.613970588235 min)
+
+From: (A1) "Squire Bridge"
+On: "Squire Bridge"
+walk 120 feet in direction 148 degrees SE
+To: (A1s) "Squire Bridge South Entrance"
+(0.441176470588 min)
+
+From: (A1s) "Squire Bridge South Entrance"
+On: ""
+walk 113 feet in direction 90 degrees East
+To: (A2e) "Shapiro Athletic Center Entrance"
+(0.415441176471 min)
+
+From: (A2e) "Shapiro Athletic Center Entrance"
+On: ""
+walk 201 feet in direction 63 degrees NE
+To: (A2) "Shapiro Athletic Center"
+(0.738970588235 min)
+
+From: (A2) "Shapiro Athletic Center"
+On: ""
+walk 229 feet in direction 75 degrees East
+To: (A3) "Linsey Sports Center And Pool"
+(0.841911764706 min)
+
+From: (A3) "Linsey Sports Center And Pool"
+On: ""
+walk 206 feet in direction 132 degrees SE
+To: (?) "Athletic Lower Lot"
+(0.757352941176 min)
+
+From: (?) "Athletic Lower Lot"
+On: ""
+walk 251 feet in direction 63 degrees NE
+To: (A4) "Foster Residence Quad"
+(0.922794117647 min)
+
+From: (A4) "Foster Residence Quad"
+On: ""
+walk 251 feet in direction 243 degrees SW
+To: (?) "Athletic Lower Lot"
+(0.922794117647 min)
+
+From: (?) "Athletic Lower Lot"
+On: "Athletics Driveway"
+walk 249 feet in direction 139 degrees SE
+To: (+) "Athletic Back Lot"
+(0.915441176471 min)
+
+From: (+) "Athletic Back Lot"
+On: "Athletics Driveway"
+walk 249 feet in direction 319 degrees NW
+To: (?) "Athletic Lower Lot"
+(0.915441176471 min)
+
+From: (?) "Athletic Lower Lot"
+On: ""
+walk 206 feet in direction 312 degrees NW
+To: (A3) "Linsey Sports Center And Pool"
+(0.757352941176 min)
+
+From: (A3) "Linsey Sports Center And Pool"
+On: ""
+walk 206 feet in direction 284 degrees West
+To: (X) "South St. At The Base Of Health Center Steps"
+(0.757352941176 min)
+
+From: (X) "South St. At The Base Of Health Center Steps"
+On: ""
+walk 225 feet in direction 270 degrees West
+To: (U46) "Landsman Research Facility"
+(0.919117647059 min)
+
+From: (U46) "Landsman Research Facility"
+On: ""
+walk 202 feet in direction 288 degrees West
+To: (U48) "Mailman House"
+(0.742647058824 min)
+
+From: (U48) "Mailman House"
+On: ""
+walk 202 feet in direction 108 degrees East
+To: (U46) "Landsman Research Facility"
+(0.742647058824 min)
+
+From: (U46) "Landsman Research Facility"
+On: ""
+walk 130 feet in direction 67 degrees NE
+To: (U45) "Golding Health Center"
+(0.477941176471 min)
+
+From: (U45) "Golding Health Center"
+On: ""
+walk 130 feet in direction 247 degrees SW
+To: (U46) "Landsman Research Facility"
+(0.477941176471 min)
+
+From: (U46) "Landsman Research Facility"
+On: ""
+walk 225 feet in direction 90 degrees East
+To: (X) "South St. At The Base Of Health Center Steps"
+(0.752005347594 min)
+
+From: (X) "South St. At The Base Of Health Center Steps"
+On: "South Street"
+walk 285 feet in direction 60 degrees NE
+To: (;) "Plant Lot"
+(1.04779411765 min)
+
+From: (;) "Plant Lot"
+On: "South Street"
+walk 285 feet in direction 240 degrees SW
+To: (X) "South St. At The Base Of Health Center Steps"
+(1.04779411765 min)
+
+From: (X) "South St. At The Base Of Health Center Steps"
+On: "Health Center Steps"
+walk 213 feet in direction 337 degrees NW
+To: (W) "Loop Road At The Health Center"
+(1.56617647059 min)
+
+From: (W) "Loop Road At The Health Center"
+On: ""
+walk 174 feet in direction 260 degrees West
+To: (U47) "Stoneman Infirmary And Public Safety"
+(0.639705882353 min)
+
+From: (U47) "Stoneman Infirmary And Public Safety"
+On: ""
+walk 38 feet in direction 316 degrees NW
+To: (=) "Science Lot"
+(0.139705882353 min)
+
+From: (=) "Science Lot"
+On: "Usen Steps"
+walk 184 feet in direction 328 degrees NW
+To: (S) "Top Of Usen Steps"
+(1.35294117647 min)
+
+From: (S) "Top Of Usen Steps"
+On: "Usen Bypass"
+walk 130 feet in direction 337 degrees NW
+To: (7) "Usen Main Entrance"
+(0.477941176471 min)
+
+From: (7) "Usen Main Entrance"
+On: "Usen Bypass"
+walk 161 feet in direction 37 degrees NE
+To: (8) "Intersection Of Loop Road And Usen Bypass"
+(0.591911764706 min)
+
+From: (8) "Intersection Of Loop Road And Usen Bypass"
+On: "Loop Road"
+walk 106 feet in direction 334 degrees NW
+To: (6) "Loop Road At The Usdan Student Center West End"
+(0.433006535948 min)
+
+From: (6) "Loop Road At The Usdan Student Center West End"
+On: ""
+walk 162 feet in direction 274 degrees West
+To: (U20) "Usdan Student Center"
+(0.595588235294 min)
+
+From: (U20) "Usdan Student Center"
+On: ""
+walk 75 feet in direction 328 degrees NW
+To: (4) "Loop Road At The Usdan Student Center"
+(0.275735294118 min)
+
+From: (4) "Loop Road At The Usdan Student Center"
+On: "Loop Road"
+walk 197 feet in direction 283 degrees West
+To: (2) "Loop Road By Rabb Steps"
+(0.724264705882 min)
+
+From: (2) "Loop Road By Rabb Steps"
+On: "Rabb Steps"
+walk 165 feet in direction 40 degrees NE
+To: (U14) "Rabb Graduate Center"
+(1.21323529412 min)
+
+From: (U14) "Rabb Graduate Center"
+On: ""
+walk 149 feet in direction 333 degrees NW
+To: (0) "Mandel Quad"
+(0.547794117647 min)
+
+From: (0) "Mandel Quad"
+On: ""
+walk 121 feet in direction 308 degrees NW
+To: (U11) "Golding Judaic Center"
+(0.444852941176 min)
+
+From: (U11) "Golding Judaic Center"
+On: ""
+walk 121 feet in direction 128 degrees SE
+To: (0) "Mandel Quad"
+(0.444852941176 min)
+
+From: (0) "Mandel Quad"
+On: ""
+walk 118 feet in direction 52 degrees NE
+To: (U12) "Lown School of Near Eastern and Judaic Studies"
+(0.433823529412 min)
+
+From: (U12) "Lown School of Near Eastern and Judaic Studies"
+On: ""
+walk 131 feet in direction 148 degrees SE
+To: (U13) "Shiffman Humanities Center"
+(0.481617647059 min)
+
+From: (U13) "Shiffman Humanities Center"
+On: ""
+walk 131 feet in direction 328 degrees NW
+To: (U12) "Lown School of Near Eastern and Judaic Studies"
+(0.481617647059 min)
+
+From: (U12) "Lown School of Near Eastern and Judaic Studies"
+On: ""
+walk 118 feet in direction 232 degrees SW
+To: (0) "Mandel Quad"
+(0.433823529412 min)
+
+From: (0) "Mandel Quad"
+On: ""
+walk 81 feet in direction 252 degrees West
+To: (U10) "Olin-Sang American Civilization Center"
+(0.297794117647 min)
+
+From: (U10) "Olin-Sang American Civilization Center"
+On: ""
+walk 225 feet in direction 269 degrees West
+To: (U9) "Mandel Center for the Humanities"
+(0.827205882353 min)
+
+From: (U9) "Mandel Center for the Humanities"
+On: ""
+walk 91 feet in direction 171 degrees South
+To: (1) "Loop Road By Mandel Center""
+(0.304144385027 min)
+
+From: (1) "Loop Road By Mandel Center""
+On: "Tower Lot Driveway"
+walk 254 feet in direction 341 degrees North
+To: ($) "Tower Lot"
+(1.03758169935 min)
+
+From: ($) "Tower Lot"
+On: ""
+walk 258 feet in direction 199 degrees South
+To: (U8) "Heller School Heller-Brown Building"
+(0.948529411765 min)
+
+From: (U8) "Heller School Heller-Brown Building"
+On: ""
+walk 193 feet in direction 281 degrees West
+To: (U5) "Heller School Schneider Building"
+(0.709558823529 min)
+
+From: (U5) "Heller School Schneider Building"
+On: ""
+walk 114 feet in direction 11 degrees North
+To: (U7) "Abraham Shapiro Academic Complex"
+(0.419117647059 min)
+
+From: (U7) "Abraham Shapiro Academic Complex"
+On: ""
+walk 114 feet in direction 191 degrees South
+To: (U5) "Heller School Schneider Building"
+(0.419117647059 min)
+
+From: (U5) "Heller School Schneider Building"
+On: ""
+walk 156 feet in direction 299 degrees NW
+To: (U6) "Mandel Center for Studies in Jewish Education"
+(0.573529411765 min)
+
+From: (U6) "Mandel Center for Studies in Jewish Education"
+On: ""
+walk 156 feet in direction 119 degrees SE
+To: (U5) "Heller School Schneider Building"
+(0.573529411765 min)
+
+From: (U5) "Heller School Schneider Building"
+On: ""
+walk 193 feet in direction 101 degrees East
+To: (U8) "Heller School Heller-Brown Building"
+(0.709558823529 min)
+
+From: (U8) "Heller School Heller-Brown Building"
+On: ""
+walk 258 feet in direction 19 degrees North
+To: ($) "Tower Lot"
+(0.948529411765 min)
+
+From: ($) "Tower Lot"
+On: "Tower Lot Driveway"
+walk 254 feet in direction 161 degrees South
+To: (1) "Loop Road By Mandel Center""
+(0.848930481283 min)
+
+From: (1) "Loop Road By Mandel Center""
+On: ""
+walk 91 feet in direction 351 degrees North
+To: (U9) "Mandel Center for the Humanities"
+(0.371732026144 min)
+
+From: (U9) "Mandel Center for the Humanities"
+On: ""
+walk 225 feet in direction 89 degrees East
+To: (U10) "Olin-Sang American Civilization Center"
+(0.827205882353 min)
+
+From: (U10) "Olin-Sang American Civilization Center"
+On: ""
+walk 81 feet in direction 72 degrees East
+To: (0) "Mandel Quad"
+(0.297794117647 min)
+
+From: (0) "Mandel Quad"
+On: ""
+walk 149 feet in direction 153 degrees SE
+To: (U14) "Rabb Graduate Center"
+(0.547794117647 min)
+
+From: (U14) "Rabb Graduate Center"
+On: "Rabb Steps"
+walk 165 feet in direction 220 degrees SW
+To: (2) "Loop Road By Rabb Steps"
+(0.674019607843 min)
+
+From: (2) "Loop Road By Rabb Steps"
+On: "Loop Road"
+walk 197 feet in direction 103 degrees East
+To: (4) "Loop Road At The Usdan Student Center"
+(0.724264705882 min)
+
+From: (4) "Loop Road At The Usdan Student Center"
+On: ""
+walk 159 feet in direction 83 degrees East
+To: (:) "North Quad Lot"
+(0.584558823529 min)
+
+From: (:) "North Quad Lot"
+On: ""
+walk 136 feet in direction 82 degrees East
+To: (U19) "Kutz Hall"
+(0.5 min)
+
+From: (U19) "Kutz Hall"
+On: ""
+walk 192 feet in direction 100 degrees East
+To: (5) "Cable Residence Hall Street Entrance"
+(0.705882352941 min)
+
+From: (5) "Cable Residence Hall Street Entrance"
+On: "Mandel Rear Access Road"
+walk 162 feet in direction 48 degrees NE
+To: (U18) "Cable Residence Hall"
+(0.595588235294 min)
+
+From: (U18) "Cable Residence Hall"
+On: "Mandel Rear Access Road"
+walk 147 feet in direction 340 degrees North
+To: (U17) "Reitman Residence Hall"
+(0.600490196078 min)
+
+From: (U17) "Reitman Residence Hall"
+On: "Edge Connecting Map Upper Right Corner To A Map Location"
+walk 1225 feet in direction 67 degrees NE
+To: (BBB) "Upper Right Corner Of Map"
+(4.50367647059 min)
+
+From: (BBB) "Upper Right Corner Of Map"
+On: "Edge Connecting Map Upper Right Corner To A Map Location"
+walk 1225 feet in direction 247 degrees SW
+To: (U17) "Reitman Residence Hall"
+(4.50367647059 min)
+
+From: (U17) "Reitman Residence Hall"
+On: "Mandel Rear Access Road"
+walk 147 feet in direction 160 degrees South
+To: (U18) "Cable Residence Hall"
+(0.491310160428 min)
+
+From: (U18) "Cable Residence Hall"
+On: "Mandel Rear Access Road"
+walk 162 feet in direction 228 degrees SW
+To: (5) "Cable Residence Hall Street Entrance"
+(0.595588235294 min)
+
+From: (5) "Cable Residence Hall Street Entrance"
+On: ""
+walk 167 feet in direction 336 degrees NW
+To: (3) "North Quad"
+(0.613970588235 min)
+
+From: (3) "North Quad"
+On: ""
+walk 139 feet in direction 326 degrees NW
+To: (U16) "Gordon Residence Hall"
+(0.511029411765 min)
+
+From: (U16) "Gordon Residence Hall"
+On: ""
+walk 181 feet in direction 248 degrees West
+To: (U15) "Scheffres Residence Hall"
+(0.665441176471 min)
+
+From: (U15) "Scheffres Residence Hall"
+On: ""
+walk 181 feet in direction 68 degrees East
+To: (U16) "Gordon Residence Hall"
+(0.665441176471 min)
+
+From: (U16) "Gordon Residence Hall"
+On: ""
+walk 139 feet in direction 146 degrees SE
+To: (3) "North Quad"
+(0.511029411765 min)
+
+From: (3) "North Quad"
+On: ""
+walk 167 feet in direction 156 degrees SE
+To: (5) "Cable Residence Hall Street Entrance"
+(0.613970588235 min)
+
+From: (5) "Cable Residence Hall Street Entrance"
+On: ""
+walk 192 feet in direction 280 degrees West
+To: (U19) "Kutz Hall"
+(0.705882352941 min)
+
+From: (U19) "Kutz Hall"
+On: ""
+walk 136 feet in direction 262 degrees West
+To: (:) "North Quad Lot"
+(0.5 min)
+
+From: (:) "North Quad Lot"
+On: ""
+walk 159 feet in direction 263 degrees West
+To: (4) "Loop Road At The Usdan Student Center"
+(0.584558823529 min)
+
+From: (4) "Loop Road At The Usdan Student Center"
+On: ""
+walk 75 feet in direction 148 degrees SE
+To: (U20) "Usdan Student Center"
+(0.275735294118 min)
+
+From: (U20) "Usdan Student Center"
+On: ""
+walk 162 feet in direction 94 degrees East
+To: (6) "Loop Road At The Usdan Student Center West End"
+(0.595588235294 min)
+
+From: (6) "Loop Road At The Usdan Student Center West End"
+On: "Loop Road"
+walk 106 feet in direction 154 degrees SE
+To: (8) "Intersection Of Loop Road And Usen Bypass"
+(0.354278074866 min)
+
+From: (8) "Intersection Of Loop Road And Usen Bypass"
+On: "Loop Road"
+walk 257 feet in direction 116 degrees SE
+To: (9) "Loop Road At The Top Of East Quad Steps"
+(0.858957219251 min)
+
+From: (9) "Loop Road At The Top Of East Quad Steps"
+On: "East Quad Steps"
+walk 144 feet in direction 88 degrees East
+To: (U41) "Intercultural Center, Swig Hall"
+(0.588235294118 min)
+
+From: (U41) "Intercultural Center, Swig Hall"
+On: ""
+walk 109 feet in direction 127 degrees SE
+To: (U44) "Rubenstein-Pomerantz Residence Hall"
+(0.400735294118 min)
+
+From: (U44) "Rubenstein-Pomerantz Residence Hall"
+On: ""
+walk 160 feet in direction 23 degrees NE
+To: (U43) "Shapiro Residence Hall "
+(0.588235294118 min)
+
+From: (U43) "Shapiro Residence Hall "
+On: ""
+walk 160 feet in direction 203 degrees SW
+To: (U44) "Rubenstein-Pomerantz Residence Hall"
+(0.588235294118 min)
+
+From: (U44) "Rubenstein-Pomerantz Residence Hall"
+On: ""
+walk 109 feet in direction 307 degrees NW
+To: (U41) "Intercultural Center, Swig Hall"
+(0.400735294118 min)
+
+From: (U41) "Intercultural Center, Swig Hall"
+On: ""
+walk 158 feet in direction 347 degrees North
+To: (U42) "Hassenfeld-Krivoff Residence Hall"
+(0.580882352941 min)
+
+From: (U42) "Hassenfeld-Krivoff Residence Hall"
+On: ""
+walk 158 feet in direction 167 degrees South
+To: (U41) "Intercultural Center, Swig Hall"
+(0.580882352941 min)
+
+From: (U41) "Intercultural Center, Swig Hall"
+On: "East Quad Steps"
+walk 144 feet in direction 268 degrees West
+To: (9) "Loop Road At The Top Of East Quad Steps"
+(1.05882352941 min)
+
+From: (9) "Loop Road At The Top Of East Quad Steps"
+On: "Loop Road"
+walk 257 feet in direction 296 degrees NW
+To: (8) "Intersection Of Loop Road And Usen Bypass"
+(1.04983660131 min)
+
+From: (8) "Intersection Of Loop Road And Usen Bypass"
+On: "Usen Bypass"
+walk 161 feet in direction 217 degrees SW
+To: (7) "Usen Main Entrance"
+(0.591911764706 min)
+
+From: (7) "Usen Main Entrance"
+On: "Usen Driveway"
+walk 126 feet in direction 93 degrees East
+To: (U40) "Usen Castle"
+(0.463235294118 min)
+
+legs = 300, distance = 70364, time = 262.328877005 min.
